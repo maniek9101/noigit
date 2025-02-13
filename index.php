@@ -8,9 +8,11 @@
 </head>
 <body>
 
-<h1>header</h1>
+    <h1>Witaj!</h1>
 
-<p>siema</p>
+    <section>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos numquam aliquam voluptatem totam! Assumenda quam ut quaerat esse voluptatibus numquam quos officiis odio. Velit, dolorum aperiam voluptas aliquam eligendi dolore.</p>
+    </section>
     
 </body>
 </html>
