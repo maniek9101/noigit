@@ -17,6 +17,12 @@
     <section>
         <p>new stuff</p>
     </section>
+
+    <section>
+        <p>
+            another section
+        </p>
+    </section>
     
 </body>
 </html>
