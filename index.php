@@ -14,7 +14,9 @@
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos numquam aliquam voluptatem totam! Assumenda quam ut quaerat esse voluptatibus numquam quos officiis odio. Velit, dolorum aperiam voluptas aliquam eligendi dolore.</p>
     </section>
 
-    <section>add new section</section>
+    <section>
+        <p>new stuff</p>
+    </section>
     
 </body>
 </html>
